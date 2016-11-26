@@ -9,12 +9,7 @@ namespace WindowsFormsApplication1
     class clsUtil
     {
         public int selec;
-        public void hooy()
-        {
-            x = 0;
-
-        }
-
+       
 
         public int LectorOpciones()
         {
