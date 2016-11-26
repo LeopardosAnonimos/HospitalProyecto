@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="clsCita.cs" />
+    <Compile Include="clsFuncionario.cs" />
     <Compile Include="clsHabitacion.cs" />
     <Compile Include="clsMedico.cs" />
     <Compile Include="clsPaciente.cs" />
