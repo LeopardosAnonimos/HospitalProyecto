@@ -19,5 +19,15 @@ namespace hospitalProyecto
         {
             return this.paciente.Where(pac => pac.id == cuarto).FirstOrDefault;
         }
+
+
+
+
+        public static void Prueba()
+        {
+            int i=0;
+            i++;
+
+        } 
     }
 }
