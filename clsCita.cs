@@ -22,7 +22,8 @@ namespace hospitalProyecto
     }
      public void hola()
     {
-
+        // comentario
+        // asdojasidoa
     }
     
 
