@@ -1,3 +1,4 @@
 C:\Users\Johanna\Documents\Visual Studio 2015\Projects\hospitalProyecto\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
 C:\Users\Johanna\Documents\Visual Studio 2015\Projects\hospitalProyecto\HospitalProyecto\bin\Debug\WindowsFormsApplication1.exe.config
 D:\Theo\Documents\Universidad\SEGUNDO SEMESTRE\PROGRA II\Visual Studio\HospitalProyecto\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\HospitalProyecto\bin\Debug\WindowsFormsApplication1.exe.config
