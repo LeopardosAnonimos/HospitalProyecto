@@ -20,6 +20,10 @@ namespace hospitalProyecto
         DateTime fecha = new DateTime();
         DateTime hora = new DateTime();
     }
+     public void hola()
+    {
+
+    }
     
 
 }
